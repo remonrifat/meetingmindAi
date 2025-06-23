@@ -20,7 +20,7 @@ const SignIn = () => {
                 <Brain className="w-7 h-7 text-white" />
               </div>
               <span className="text-3xl font-bold text-gray-900 dark:text-white">
-                MeetingMind AI
+                Noten AI
               </span>
             </Link>
             <h2 className="text-3xl font-bold text-gray-900 dark:text-white">
@@ -116,7 +116,7 @@ const SignIn = () => {
             <Brain className="w-16 h-16 text-white" />
           </div>
           <h2 className="text-4xl font-bold text-white mb-4">
-            Welcome to MeetingMind AI
+            Welcome to Noten AI
           </h2>
           <p className="text-xl text-gray-300 mb-6">
             Transform your meetings into strategic insights with advanced AI technology.

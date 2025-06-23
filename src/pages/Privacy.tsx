@@ -111,7 +111,7 @@ const Privacy = () => {
               </p>
               <div className="mt-4 p-4 bg-purple-50 dark:bg-purple-900/30 rounded-lg">
                 <p className="text-purple-600 dark:text-purple-300 font-medium">
-                  Email: privacy@meetingmind.ai
+                  Email: privacy@Noten.ai
                 </p>
                 <p className="text-purple-600 dark:text-purple-300">
                   Address: 123 Privacy Street, San Francisco, CA 94105

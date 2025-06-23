@@ -55,7 +55,7 @@ const Hero = () => {
                   <div className="w-3 h-3 bg-red-400 rounded-full"></div>
                   <div className="w-3 h-3 bg-yellow-400 rounded-full"></div>
                   <div className="w-3 h-3 bg-green-400 rounded-full"></div>
-                  <span className="ml-4 text-sm font-medium text-gray-600 dark:text-gray-300">MeetingMind AI Dashboard</span>
+                  <span className="ml-4 text-sm font-medium text-gray-600 dark:text-gray-300">Noten AI Dashboard</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <Sparkles className="w-4 h-4 text-purple-500 animate-pulse" />

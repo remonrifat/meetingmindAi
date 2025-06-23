@@ -15,7 +15,7 @@ const ForgotPassword = () => {
               <Brain className="w-7 h-7 text-white" />
             </div>
             <span className="text-3xl font-bold text-gray-900 dark:text-white">
-              MeetingMind AI
+              Noten AI
             </span>
           </Link>
           <h2 className="text-3xl font-bold text-gray-900 dark:text-white">

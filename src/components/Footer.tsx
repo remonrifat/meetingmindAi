@@ -25,7 +25,7 @@ const Footer = () => {
                 <Brain className="w-6 h-6 text-white" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-purple-300 to-blue-300 bg-clip-text text-transparent">
-                MeetingMind AI
+                Noten AI
               </span>
             </Link>
             <p className="text-gray-300 mb-6 leading-relaxed">
@@ -35,7 +35,7 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center text-gray-300">
                 <Mail className="w-4 h-4 mr-3 text-purple-400" />
-                <span className="text-sm">contact@meetingmind.ai</span>
+                <span className="text-sm">contact@Noten.ai</span>
               </div>
               <div className="flex items-center text-gray-300">
                 <Phone className="w-4 h-4 mr-3 text-purple-400" />
@@ -250,7 +250,7 @@ const Footer = () => {
             </div>
             <div className="text-center md:text-right">
               <p className="text-gray-400 text-sm mb-2">
-                &copy; 2025 MeetingMind AI. All rights reserved by Noten AI
+                &copy; 2025 Noten AI. All rights reserved by Noten AI
               </p>
               <p className="text-gray-500 text-xl">
                 Developed by <a href="remonrifat.vercel.app">Remon Rifat</a>{" "}
