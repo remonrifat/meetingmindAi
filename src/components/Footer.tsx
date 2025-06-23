@@ -253,7 +253,7 @@ const Footer = () => {
                 &copy; 2025 Noten AI. All rights reserved by Noten AI
               </p>
               <p className="text-gray-500 text-xl">
-                Developed by <a href="remonrifat.vercel.app">Remon Rifat</a>{" "}
+                Developed by <Link to="https://remonrifat.vercel.app/">Remon Rifat</Link>{" "}
               </p>
             </div>
           </div>
